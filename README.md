@@ -1,0 +1,2 @@
+# Subject-Analysis-of-news-articles-using-Machine-learning
+- The project involved analyzing and classifying news articles on the basis of the subjects.  - 130000 news articles were chosen as the training samples with 24 subjects in total. This was then tested on 35000 news articles as test. Multiple machine learning techniques were implemented after several pre-processing steps with SVM providing the highest score of 68% accuracy(as compared to 4% in random guessing) - The pre-processing was implemented using Python and the Machine learning step was implemented using R. 
