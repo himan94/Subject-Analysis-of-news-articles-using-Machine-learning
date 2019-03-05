@@ -1,0 +1,11 @@
+Total articles 105000
+I have just mentioned examples as I cant share the files due to university policy
+
+ID tr_doc_1
+TEXT Two German tourists have been found safe and well after spending almost six hours lost in rugged rainforest at Finch Hatton Gorge, west of Mackay, last night. It is the same area a young Mackay man fell or jumped to his death last week. Sergeant Jon Purcell says rescuers located the missing pair just before midnight AEST.
+
+EOD
+
+ 
+ID tr_doc_2
+TEXT ACT police have seized a rare drug during a raid of a Florey home. Police found a number of syringes filled with the drug Ox-Blood, which is a form of amphetamine. They also found a number of bags believed to contain crystal methamphetamine. A 29-year-old woman has been charged with a number of offences and has faced court this morning. Acting Sergeant Matt Varley says it is only the third time the drug has been found in the territory. "It's actually a bi-product of the amphetamine manufacturing process whereby normal powders and crystals are produced," he said. "It's a liquid methamphetamine and it contains red phospherous and iodine giving it it's red colour.
